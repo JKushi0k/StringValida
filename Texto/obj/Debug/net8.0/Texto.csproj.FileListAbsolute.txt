@@ -1,0 +1,14 @@
+C:\Minhas Coisas\1-VSCode\1-Cursos\full-stack-developer\3-Desafios-de-projetos\8-DDD\Texto\bin\Debug\net8.0\Texto.exe
+C:\Minhas Coisas\1-VSCode\1-Cursos\full-stack-developer\3-Desafios-de-projetos\8-DDD\Texto\bin\Debug\net8.0\Texto.deps.json
+C:\Minhas Coisas\1-VSCode\1-Cursos\full-stack-developer\3-Desafios-de-projetos\8-DDD\Texto\bin\Debug\net8.0\Texto.runtimeconfig.json
+C:\Minhas Coisas\1-VSCode\1-Cursos\full-stack-developer\3-Desafios-de-projetos\8-DDD\Texto\bin\Debug\net8.0\Texto.dll
+C:\Minhas Coisas\1-VSCode\1-Cursos\full-stack-developer\3-Desafios-de-projetos\8-DDD\Texto\bin\Debug\net8.0\Texto.pdb
+C:\Minhas Coisas\1-VSCode\1-Cursos\full-stack-developer\3-Desafios-de-projetos\8-DDD\Texto\obj\Debug\net8.0\Texto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Minhas Coisas\1-VSCode\1-Cursos\full-stack-developer\3-Desafios-de-projetos\8-DDD\Texto\obj\Debug\net8.0\Texto.AssemblyInfoInputs.cache
+C:\Minhas Coisas\1-VSCode\1-Cursos\full-stack-developer\3-Desafios-de-projetos\8-DDD\Texto\obj\Debug\net8.0\Texto.AssemblyInfo.cs
+C:\Minhas Coisas\1-VSCode\1-Cursos\full-stack-developer\3-Desafios-de-projetos\8-DDD\Texto\obj\Debug\net8.0\Texto.csproj.CoreCompileInputs.cache
+C:\Minhas Coisas\1-VSCode\1-Cursos\full-stack-developer\3-Desafios-de-projetos\8-DDD\Texto\obj\Debug\net8.0\Texto.dll
+C:\Minhas Coisas\1-VSCode\1-Cursos\full-stack-developer\3-Desafios-de-projetos\8-DDD\Texto\obj\Debug\net8.0\refint\Texto.dll
+C:\Minhas Coisas\1-VSCode\1-Cursos\full-stack-developer\3-Desafios-de-projetos\8-DDD\Texto\obj\Debug\net8.0\Texto.pdb
+C:\Minhas Coisas\1-VSCode\1-Cursos\full-stack-developer\3-Desafios-de-projetos\8-DDD\Texto\obj\Debug\net8.0\Texto.genruntimeconfig.cache
+C:\Minhas Coisas\1-VSCode\1-Cursos\full-stack-developer\3-Desafios-de-projetos\8-DDD\Texto\obj\Debug\net8.0\ref\Texto.dll
